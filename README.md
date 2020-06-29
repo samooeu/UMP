@@ -2,7 +2,7 @@
 UMP is a script that automates the updatingof mirrors in Arch Linux, correcting speed problems.
 
 ## Depedencies
-# Reflector.
+- Reflector.
 
 ## Warnings
 #1 - by default the UMP script is configured for mirrors in Brazil, but you can change the parameters in the script.
