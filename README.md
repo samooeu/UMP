@@ -1,5 +1,5 @@
 ## What's the UMP ?
-UMP is a script that automates the updatingof mirrors in Arch Linux, correcting speed problems.
+UMP is a script that automates the updating of mirrors in Arch Linux, correcting speed problems.
 
 ## Depedencies
 - Reflector.
